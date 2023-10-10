@@ -1,5 +1,4 @@
 echo "Please type in your password: "
-sudo su
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt update -y
