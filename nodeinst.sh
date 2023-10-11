@@ -6,6 +6,7 @@ sudo apt upgrade -y
 sudo apt install nodejs npm -y
 sudo npm install -g n
 sudo n stable
+clear
 echo
 echo
 echo
